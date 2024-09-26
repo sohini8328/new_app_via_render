@@ -34,5 +34,6 @@ def toss_coin(n):
         time.sleep(0.05)
 
     return mean
+mean = toss_coin(number_of_trials)
 
 
